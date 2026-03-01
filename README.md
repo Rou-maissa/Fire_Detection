@@ -53,4 +53,4 @@ Train on larger datasets for better accuracy
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/fire-detection.git
+git clone https://github.com/Rou-maissa/Fire_Detection.git
